@@ -1,3 +1,3 @@
 # HRBotPy
 
-Технологии: Redis, AIOgram, FastApi, re, requests
+Технологии: Redis, AIOgram, FastApi, re, requests, logging
